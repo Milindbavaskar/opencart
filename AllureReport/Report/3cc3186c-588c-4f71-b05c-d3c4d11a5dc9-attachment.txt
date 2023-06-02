@@ -1,0 +1,34 @@
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:20 test_login_ddt_005 is started
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:22 opening browser
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:24 entering urlhttps://tutorialsninja.com/demo/
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:33 clicking on myaccount
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:35 clicking on login
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:40 entering email address-->Kmahajan@xyz.com
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:42 entering password-->Test@1234
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:44 clicking on login button
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:47 page title-->My Account
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:51 clicking on myaccount
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:53 clicking on logout
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:90 test_login_ddt_005 is passed
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:33 clicking on myaccount
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:35 clicking on login
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:40 entering email address-->Kmahajan@xyz.com1
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:42 entering password-->Test@1234
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:44 clicking on login button
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:81 page title-->Account Login
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:90 test_login_ddt_005 is passed
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:33 clicking on myaccount
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:35 clicking on login
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:40 entering email address-->Kmahajan@xyz.com
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:42 entering password-->Test@12341
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:44 clicking on login button
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:81 page title-->Account Login
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:90 test_login_ddt_005 is passed
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:33 clicking on myaccount
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:35 clicking on login
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:40 entering email address-->Kmahajan@xyz.com1
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:42 entering password-->Test@12341
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:44 clicking on login button
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:81 page title-->Account Login
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:90 test_login_ddt_005 is passed
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:95 test_login_ddt_005 is completed

@@ -1,0 +1,425 @@
+ 2023-05-31 12:36:11,951 : INFO : TestRegister : test_page_title_001 : 11 : test_page_title_001 is started
+ 2023-05-31 12:36:11,951 : INFO : TestRegister : test_page_title_001 : 13 : opening browser
+ 2023-05-31 12:36:12,664 : INFO : TestRegister : test_page_title_001 : 15 : Going to url--->https://tutorialsninja.com/demo/
+ 2023-05-31 12:36:13,050 : INFO : TestRegister : test_page_title_001 : 17 : maximize window
+ 2023-05-31 12:36:13,105 : INFO : TestRegister : test_page_title_001 : 19 : page title-->Your Store
+ 2023-05-31 12:36:13,561 : INFO : TestRegister : test_page_title_001 : 22 : taking screenshot
+ 2023-05-31 12:36:13,562 : INFO : TestRegister : test_page_title_001 : 23 : test_page_title_001 is passed
+ 2023-05-31 12:36:13,562 : INFO : TestRegister : test_page_title_001 : 31 : test_page_title_001 is completed
+ 2023-05-31 12:36:32,194 : INFO : TestRegister : test_register_002 : 34 : test_register_002 is started
+ 2023-05-31 12:36:32,196 : INFO : TestRegister : test_register_002 : 36 : opening browser
+ 2023-05-31 12:36:32,768 : INFO : TestRegister : test_register_002 : 38 : Going to url--->https://tutorialsninja.com/demo/
+ 2023-05-31 12:36:34,766 : INFO : TestRegister : test_register_002 : 43 : click on myaccount
+ 2023-05-31 12:36:36,109 : INFO : TestRegister : test_register_002 : 45 : click on register
+ 2023-05-31 12:41:04,141 : INFO : TestRegister : test_page_title_001 : 11 : test_page_title_001 is started
+ 2023-05-31 12:41:04,142 : INFO : TestRegister : test_page_title_001 : 13 : opening browser
+ 2023-05-31 12:41:04,976 : INFO : TestRegister : test_page_title_001 : 15 : Going to url--->https://tutorialsninja.com/demo/
+ 2023-05-31 12:41:05,296 : INFO : TestRegister : test_page_title_001 : 17 : maximize window
+ 2023-05-31 12:41:05,317 : INFO : TestRegister : test_page_title_001 : 19 : page title-->Your Store
+ 2023-05-31 12:41:05,660 : INFO : TestRegister : test_page_title_001 : 22 : taking screenshot
+ 2023-05-31 12:41:05,660 : INFO : TestRegister : test_page_title_001 : 23 : test_page_title_001 is passed
+ 2023-05-31 12:41:09,527 : INFO : TestRegister : test_page_title_001 : 32 : test_page_title_001 is completed
+ 2023-05-31 12:41:17,228 : INFO : TestRegister : test_register_002 : 35 : test_register_002 is started
+ 2023-05-31 12:41:17,229 : INFO : TestRegister : test_register_002 : 37 : opening browser
+ 2023-05-31 12:41:17,759 : INFO : TestRegister : test_register_002 : 39 : Going to url--->https://tutorialsninja.com/demo/
+ 2023-05-31 12:41:19,675 : INFO : TestRegister : test_register_002 : 44 : click on myaccount
+ 2023-05-31 12:41:21,584 : INFO : TestRegister : test_register_002 : 46 : click on register
+ 2023-05-31 12:45:03,835 : INFO : TestRegister : test_page_title_001 : 11 : test_page_title_001 is started
+ 2023-05-31 12:45:03,836 : INFO : TestRegister : test_page_title_001 : 13 : opening browser
+ 2023-05-31 12:45:04,464 : INFO : TestRegister : test_page_title_001 : 15 : Going to url--->https://tutorialsninja.com/demo/
+ 2023-05-31 12:45:04,928 : INFO : TestRegister : test_page_title_001 : 17 : maximize window
+ 2023-05-31 12:45:04,993 : INFO : TestRegister : test_page_title_001 : 19 : page title-->Your Store
+ 2023-05-31 12:45:05,366 : INFO : TestRegister : test_page_title_001 : 22 : taking screenshot
+ 2023-05-31 12:45:05,366 : INFO : TestRegister : test_page_title_001 : 23 : test_page_title_001 is passed
+ 2023-05-31 12:45:09,048 : INFO : TestRegister : test_page_title_001 : 32 : test_page_title_001 is completed
+ 2023-05-31 12:45:17,703 : INFO : TestRegister : test_register_002 : 35 : test_register_002 is started
+ 2023-05-31 12:45:17,704 : INFO : TestRegister : test_register_002 : 37 : opening browser
+ 2023-05-31 12:45:18,315 : INFO : TestRegister : test_register_002 : 39 : Going to url--->https://tutorialsninja.com/demo/
+ 2023-05-31 12:45:18,850 : INFO : TestRegister : test_register_002 : 44 : click on myaccount
+ 2023-05-31 12:45:19,919 : INFO : TestRegister : test_register_002 : 46 : click on register
+ 2023-05-31 12:45:20,150 : INFO : TestRegister : test_register_002 : 48 : entering firstname
+ 2023-05-31 12:45:20,360 : INFO : TestRegister : test_register_002 : 50 : entering lastname
+ 2023-05-31 12:45:20,634 : INFO : TestRegister : test_register_002 : 52 : entering email
+ 2023-05-31 12:45:20,951 : INFO : TestRegister : test_register_002 : 54 : entering telephone
+ 2023-05-31 12:45:21,161 : INFO : TestRegister : test_register_002 : 56 : entering password
+ 2023-05-31 12:45:21,412 : INFO : TestRegister : test_register_002 : 58 : entering confirm password
+ 2023-05-31 12:45:21,928 : INFO : TestRegister : test_register_002 : 60 : clicking on privacy policy
+ 2023-05-31 12:45:22,731 : INFO : TestRegister : test_register_002 : 62 : clicking on continue button
+ 2023-05-31 12:45:22,791 : INFO : TestRegister : test_register_002 : 64 : page title--->Your Account Has Been Created!
+ 2023-05-31 12:45:23,034 : INFO : TestRegister : test_register_002 : 67 : taking sceernshot
+ 2023-05-31 12:45:23,705 : INFO : TestRegister : test_register_002 : 69 : clicking on continue button
+ 2023-05-31 12:45:23,848 : INFO : TestRegister : test_register_002 : 71 : clicking on myaccount
+ 2023-05-31 12:45:24,442 : INFO : TestRegister : test_register_002 : 73 : clicking on logout
+ 2023-05-31 12:45:24,442 : INFO : TestRegister : test_register_002 : 74 : test_register_002 is passed
+ 2023-05-31 12:45:24,442 : INFO : TestRegister : test_register_002 : 82 : test_register_002 is completed
+ 2023-05-31 23:38:29,416 : INFO : TestLogin : test_login_003 : 13 : test_login_003 is started
+ 2023-05-31 23:38:29,417 : INFO : TestLogin : test_login_003 : 15 : opening browser
+ 2023-05-31 23:38:30,010 : INFO : TestLogin : test_login_003 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-05-31 23:38:31,498 : INFO : TestLogin : test_login_003 : 22 : clicking on myaccount
+ 2023-05-31 23:38:32,307 : INFO : TestLogin : test_login_003 : 24 : clicking on login
+ 2023-05-31 23:38:32,643 : INFO : TestLogin : test_login_003 : 26 : entering email address-->Kmahajan@xyz.com
+ 2023-05-31 23:38:32,858 : INFO : TestLogin : test_login_003 : 28 : entering password-->Test@1234
+ 2023-05-31 23:38:33,623 : INFO : TestLogin : test_login_003 : 30 : clicking on login button
+ 2023-05-31 23:38:33,649 : INFO : TestLogin : test_login_003 : 32 : page title-->My Account
+ 2023-05-31 23:38:33,984 : INFO : TestLogin : test_login_003 : 36 : clicking on myaccount
+ 2023-05-31 23:38:34,612 : INFO : TestLogin : test_login_003 : 38 : clicking on logout
+ 2023-05-31 23:38:34,612 : INFO : TestLogin : test_login_003 : 39 : test_login_003 is passed
+ 2023-05-31 23:38:35,187 : INFO : TestLogin : test_login_003 : 47 : test_login_003 is completed
+ 2023-06-01 16:19:25,771 : INFO : TestLogin : test_login_003 : 13 : test_login_param_004 is started
+ 2023-06-01 16:19:25,772 : INFO : TestLogin : test_login_003 : 15 : opening browser
+ 2023-06-01 16:19:26,540 : INFO : TestLogin : test_login_003 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-01 16:19:27,261 : INFO : TestLogin : test_login_003 : 22 : clicking on myaccount
+ 2023-06-01 16:19:28,942 : INFO : TestLogin : test_login_003 : 24 : clicking on login
+ 2023-06-01 16:19:29,456 : INFO : TestLogin : test_login_003 : 26 : entering email address-->Kmahajan@xyz.com
+ 2023-06-01 16:19:29,850 : INFO : TestLogin : test_login_003 : 28 : entering password-->Test@1234
+ 2023-06-01 16:19:32,597 : INFO : TestLogin : test_login_003 : 30 : clicking on login button
+ 2023-06-01 16:19:32,618 : INFO : TestLogin : test_login_003 : 34 : page title-->My Account
+ 2023-06-01 16:19:32,984 : INFO : TestLogin : test_login_003 : 38 : clicking on myaccount
+ 2023-06-01 16:19:33,642 : INFO : TestLogin : test_login_003 : 40 : clicking on logout
+ 2023-06-01 16:19:34,073 : INFO : TestLogin : test_login_003 : 73 : test_login_param_004 is passed
+ 2023-06-01 16:19:34,073 : INFO : TestLogin : test_login_003 : 78 : test_login_param_004 is completed
+ 2023-06-01 16:19:44,415 : INFO : TestLogin : test_login_003 : 13 : test_login_param_004 is started
+ 2023-06-01 16:19:44,415 : INFO : TestLogin : test_login_003 : 15 : opening browser
+ 2023-06-01 16:19:45,144 : INFO : TestLogin : test_login_003 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-01 16:19:45,814 : INFO : TestLogin : test_login_003 : 22 : clicking on myaccount
+ 2023-06-01 16:19:46,388 : INFO : TestLogin : test_login_003 : 24 : clicking on login
+ 2023-06-01 16:19:46,697 : INFO : TestLogin : test_login_003 : 26 : entering email address-->Kmahajan@xyz.com
+ 2023-06-01 16:19:46,938 : INFO : TestLogin : test_login_003 : 28 : entering password-->Test@1234
+ 2023-06-01 16:19:47,491 : INFO : TestLogin : test_login_003 : 30 : clicking on login button
+ 2023-06-01 16:19:47,556 : INFO : TestLogin : test_login_003 : 65 : page title-->Account Login
+ 2023-06-01 16:19:48,315 : INFO : TestLogin : test_login_003 : 73 : test_login_param_004 is passed
+ 2023-06-01 16:19:48,315 : INFO : TestLogin : test_login_003 : 78 : test_login_param_004 is completed
+ 2023-06-01 16:19:58,459 : INFO : TestLogin : test_login_003 : 13 : test_login_param_004 is started
+ 2023-06-01 16:19:58,460 : INFO : TestLogin : test_login_003 : 15 : opening browser
+ 2023-06-01 16:20:00,148 : INFO : TestLogin : test_login_003 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-01 16:20:00,815 : INFO : TestLogin : test_login_003 : 22 : clicking on myaccount
+ 2023-06-01 16:20:03,454 : INFO : TestLogin : test_login_003 : 24 : clicking on login
+ 2023-06-01 16:20:03,842 : INFO : TestLogin : test_login_003 : 26 : entering email address-->Kmahajan@xyz.com
+ 2023-06-01 16:20:04,049 : INFO : TestLogin : test_login_003 : 28 : entering password-->Test@1234
+ 2023-06-01 16:20:04,662 : INFO : TestLogin : test_login_003 : 30 : clicking on login button
+ 2023-06-01 16:20:04,694 : INFO : TestLogin : test_login_003 : 65 : page title-->Account Login
+ 2023-06-01 16:20:05,654 : INFO : TestLogin : test_login_003 : 73 : test_login_param_004 is passed
+ 2023-06-01 16:20:05,654 : INFO : TestLogin : test_login_003 : 78 : test_login_param_004 is completed
+ 2023-06-01 16:20:17,232 : INFO : TestLogin : test_login_003 : 13 : test_login_param_004 is started
+ 2023-06-01 16:20:17,233 : INFO : TestLogin : test_login_003 : 15 : opening browser
+ 2023-06-01 16:20:17,768 : INFO : TestLogin : test_login_003 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-01 16:20:18,305 : INFO : TestLogin : test_login_003 : 22 : clicking on myaccount
+ 2023-06-01 16:20:18,934 : INFO : TestLogin : test_login_003 : 24 : clicking on login
+ 2023-06-01 16:20:19,395 : INFO : TestLogin : test_login_003 : 26 : entering email address-->Kmahajan@xyz.com
+ 2023-06-01 16:20:19,624 : INFO : TestLogin : test_login_003 : 28 : entering password-->Test@1234
+ 2023-06-01 16:20:20,275 : INFO : TestLogin : test_login_003 : 30 : clicking on login button
+ 2023-06-01 16:20:20,309 : INFO : TestLogin : test_login_003 : 65 : page title-->Account Login
+ 2023-06-01 16:20:22,004 : INFO : TestLogin : test_login_003 : 73 : test_login_param_004 is passed
+ 2023-06-01 16:20:22,004 : INFO : TestLogin : test_login_003 : 78 : test_login_param_004 is completed
+ 2023-06-01 17:11:40,407 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-01 17:11:40,408 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-01 17:11:41,465 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-01 17:11:43,366 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-01 17:11:43,961 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-01 17:11:44,417 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->Kmahajan@xyz.com
+ 2023-06-01 17:11:44,647 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->Test@1234
+ 2023-06-01 17:11:46,943 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-01 17:11:46,968 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-01 17:11:47,265 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on myaccount
+ 2023-06-01 17:11:47,852 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on logout
+ 2023-06-01 17:12:15,298 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-01 17:12:15,299 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-01 17:12:19,530 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-01 17:12:48,739 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-01 17:12:48,740 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-01 17:12:50,494 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-01 17:12:52,635 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-01 17:12:53,263 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-01 17:12:53,829 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->Kmahajan@xyz.com
+ 2023-06-01 17:12:54,031 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->Test@1234
+ 2023-06-01 17:12:55,071 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-01 17:12:55,096 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-01 17:12:55,458 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on myaccount
+ 2023-06-01 17:12:56,026 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on logout
+ 2023-06-01 17:14:43,399 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-01 17:14:43,400 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-01 17:14:44,815 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-01 17:14:46,268 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-01 17:14:47,026 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-01 17:14:47,402 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->Kmahajan@xyz.com
+ 2023-06-01 17:14:47,933 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->Test@1234
+ 2023-06-01 17:14:48,565 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-01 17:14:48,780 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-01 17:17:50,493 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-01 17:17:50,493 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-01 20:57:55,688 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-01 20:57:55,689 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-01 20:57:56,747 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-01 20:57:57,799 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-01 20:57:58,773 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-01 20:57:59,527 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->Kmahajan@xyz.com
+ 2023-06-01 20:57:59,875 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->Test@1234
+ 2023-06-01 20:58:03,713 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-01 20:58:03,741 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-01 20:58:04,234 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on myaccount
+ 2023-06-01 20:58:04,949 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on logout
+ 2023-06-01 21:04:35,836 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-01 21:04:35,837 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-01 21:04:36,579 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-01 21:04:37,257 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-01 21:04:37,830 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-01 21:04:38,244 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->Kmahajan@xyz.com
+ 2023-06-01 21:04:38,462 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->Test@1234
+ 2023-06-01 21:04:39,193 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-01 21:04:39,217 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-01 21:04:39,568 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on myaccount
+ 2023-06-01 21:04:40,145 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on logout
+ 2023-06-01 21:19:56,243 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-01 21:19:56,244 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-01 21:19:56,924 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-01 21:19:57,679 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-01 21:19:58,200 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-01 21:19:58,594 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->Kmahajan@xyz.com
+ 2023-06-01 21:19:58,796 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->Test@1234
+ 2023-06-01 21:19:59,603 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-01 21:19:59,640 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-01 21:19:59,969 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on myaccount
+ 2023-06-01 21:20:00,645 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on logout
+ 2023-06-01 21:21:49,605 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-01 21:21:49,608 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-01 21:21:51,650 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-01 21:21:52,393 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-01 21:21:52,984 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-01 21:21:53,543 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->Kmahajan@xyz.com
+ 2023-06-01 21:21:53,734 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->Test@1234
+ 2023-06-01 21:21:54,701 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-01 21:21:54,725 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-01 21:21:55,353 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on myaccount
+ 2023-06-01 21:21:56,023 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on logout
+ 2023-06-01 21:30:55,744 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-01 21:30:55,745 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-01 21:30:58,961 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-01 21:31:08,062 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-01 21:31:09,374 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-01 21:31:09,723 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->Kmahajan@xyz.com
+ 2023-06-01 21:31:09,902 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->Test@1234
+ 2023-06-01 21:32:43,801 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-01 21:32:43,802 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-01 21:32:44,273 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-01 21:32:44,816 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-01 21:32:45,520 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-01 21:32:45,981 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->Kmahajan@xyz.com
+ 2023-06-01 21:32:46,231 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->Test@1234
+ 2023-06-01 21:32:47,182 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-01 21:32:47,203 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-01 21:32:47,560 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on myaccount
+ 2023-06-01 21:32:48,168 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on logout
+ 2023-06-02 00:10:38,134 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-02 00:10:38,135 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-02 00:10:38,790 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-02 00:10:42,127 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-02 00:10:42,935 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-02 00:10:43,701 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->Kmahajan@xyz.com
+ 2023-06-02 00:10:44,019 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->Test@1234
+ 2023-06-02 00:10:46,720 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-02 00:10:46,743 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-02 00:10:47,116 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on myaccount
+ 2023-06-02 00:10:47,807 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on logout
+ 2023-06-02 00:11:42,293 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-02 00:11:42,294 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-02 00:11:42,760 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-02 00:11:43,521 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-02 00:11:44,205 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-02 00:11:44,612 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->Kmahajan@xyz.com
+ 2023-06-02 00:11:44,839 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->Test@1234
+ 2023-06-02 00:11:47,787 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-02 00:11:47,936 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-02 00:11:49,507 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on myaccount
+ 2023-06-02 00:11:50,208 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on logout
+ 2023-06-02 00:13:37,305 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-02 00:13:37,307 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-02 00:13:38,832 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-02 00:13:39,628 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-02 00:13:42,514 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-02 00:13:43,105 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->Kmahajan@xyz.com
+ 2023-06-02 00:13:43,325 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->Test@1234
+ 2023-06-02 00:13:44,073 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-02 00:13:44,105 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-02 00:13:44,428 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on myaccount
+ 2023-06-02 00:13:45,089 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on logout
+ 2023-06-02 00:19:34,381 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-02 00:19:34,382 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-02 00:19:35,212 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-02 00:19:37,936 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-02 00:19:38,870 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-02 00:19:39,335 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->Kmahajan@xyz.com
+ 2023-06-02 00:19:39,548 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->Test@1234
+ 2023-06-02 00:19:40,324 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-02 00:19:40,350 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-02 00:19:40,699 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on myaccount
+ 2023-06-02 00:19:41,226 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on logout
+ 2023-06-02 00:25:48,932 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-02 00:25:48,933 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-02 00:25:49,525 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-02 00:25:51,247 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-02 00:25:51,941 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-02 00:25:52,354 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->Kmahajan@xyz.com
+ 2023-06-02 00:25:52,547 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->Test@1234
+ 2023-06-02 00:25:53,408 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-02 00:25:53,441 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-02 00:25:53,801 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on myaccount
+ 2023-06-02 00:25:54,398 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on logout
+ 2023-06-02 00:32:09,722 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-02 00:32:09,722 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-02 00:32:10,511 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-02 00:32:13,175 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-02 00:32:14,729 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-02 00:32:15,219 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->Kmahajan@xyz.com
+ 2023-06-02 00:32:15,418 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->Test@1234
+ 2023-06-02 00:32:16,436 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-02 00:32:16,468 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-02 00:32:16,818 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on myaccount
+ 2023-06-02 00:32:17,455 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on logout
+ 2023-06-02 00:43:16,185 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-02 00:43:16,186 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-02 00:43:16,697 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-02 00:43:17,300 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-02 00:43:17,964 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-02 00:43:18,445 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->Kmahajan@xyz.com
+ 2023-06-02 00:43:18,644 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->Test@1234
+ 2023-06-02 00:43:21,373 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-02 00:43:21,394 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-02 00:43:21,754 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on myaccount
+ 2023-06-02 00:43:22,332 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on logout
+ 2023-06-02 00:55:24,861 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-02 00:55:24,862 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-02 00:55:25,488 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-02 00:55:25,966 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-02 00:55:26,613 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-02 00:55:26,998 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->Kmahajan@xyz.com
+ 2023-06-02 00:55:27,330 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->Test@1234
+ 2023-06-02 00:55:28,384 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-02 00:55:28,427 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-02 00:55:31,891 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on myaccount
+ 2023-06-02 00:55:32,707 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on logout
+ 2023-06-02 00:55:32,811 : INFO : TestLoginDdt : test_login_ddt_005 : 83 : test_login_ddt_005 is passed
+ 2023-06-02 15:21:44,630 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-02 15:21:44,631 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-02 15:21:45,113 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-02 15:21:45,957 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-02 15:21:48,364 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-02 15:21:48,804 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->
+ 2023-06-02 15:21:49,014 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->
+ 2023-06-02 15:21:49,757 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-02 15:21:49,786 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-02 15:21:50,108 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on myaccount
+ 2023-06-02 15:21:50,990 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on logout
+ 2023-06-02 15:21:51,032 : INFO : TestLoginDdt : test_login_ddt_005 : 83 : test_login_ddt_005 is passed
+ 2023-06-02 15:25:56,446 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-02 15:25:56,447 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-02 15:25:57,588 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-02 15:25:59,371 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : clicking on myaccount
+ 2023-06-02 15:26:01,143 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : clicking on login
+ 2023-06-02 15:26:01,664 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->
+ 2023-06-02 15:26:01,877 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->
+ 2023-06-02 15:26:02,609 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-02 15:26:02,644 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-02 15:26:02,980 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on myaccount
+ 2023-06-02 15:26:03,524 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on logout
+ 2023-06-02 15:26:03,623 : INFO : TestLoginDdt : test_login_ddt_005 : 83 : test_login_ddt_005 is passed
+ 2023-06-02 15:40:21,347 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-02 15:40:21,348 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-02 15:40:22,107 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-02 15:40:24,235 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering email address-->
+ 2023-06-02 15:40:24,440 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : entering password-->
+ 2023-06-02 15:40:25,223 : INFO : TestLoginDdt : test_login_ddt_005 : 39 : clicking on login button
+ 2023-06-02 15:40:25,244 : INFO : TestLoginDdt : test_login_ddt_005 : 42 : page title-->My Account
+ 2023-06-02 15:40:25,576 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on myaccount
+ 2023-06-02 15:40:26,439 : INFO : TestLoginDdt : test_login_ddt_005 : 48 : clicking on logout
+ 2023-06-02 15:40:54,913 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-02 15:40:54,914 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-02 15:40:55,491 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-02 15:40:57,473 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering email address-->
+ 2023-06-02 15:40:57,938 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : entering password-->
+ 2023-06-02 15:41:01,308 : INFO : TestLoginDdt : test_login_ddt_005 : 39 : clicking on login button
+ 2023-06-02 15:41:01,325 : INFO : TestLoginDdt : test_login_ddt_005 : 42 : page title-->My Account
+ 2023-06-02 15:41:01,671 : INFO : TestLoginDdt : test_login_ddt_005 : 46 : clicking on myaccount
+ 2023-06-02 15:41:02,284 : INFO : TestLoginDdt : test_login_ddt_005 : 48 : clicking on logout
+ 2023-06-02 15:41:02,550 : INFO : TestLoginDdt : test_login_ddt_005 : 85 : test_login_ddt_005 is passed
+ 2023-06-02 15:41:03,919 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering email address-->
+ 2023-06-02 15:41:04,197 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : entering password-->
+ 2023-06-02 15:41:04,648 : INFO : TestLoginDdt : test_login_ddt_005 : 39 : clicking on login button
+ 2023-06-02 15:41:04,765 : INFO : TestLoginDdt : test_login_ddt_005 : 76 : page title-->Account Login
+ 2023-06-02 15:41:05,075 : INFO : TestLoginDdt : test_login_ddt_005 : 85 : test_login_ddt_005 is passed
+ 2023-06-02 15:41:06,154 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering email address-->
+ 2023-06-02 15:41:06,373 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : entering password-->
+ 2023-06-02 15:41:06,930 : INFO : TestLoginDdt : test_login_ddt_005 : 39 : clicking on login button
+ 2023-06-02 15:41:06,969 : INFO : TestLoginDdt : test_login_ddt_005 : 76 : page title-->Account Login
+ 2023-06-02 15:41:07,257 : INFO : TestLoginDdt : test_login_ddt_005 : 85 : test_login_ddt_005 is passed
+ 2023-06-02 15:41:08,189 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering email address-->
+ 2023-06-02 15:41:08,518 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : entering password-->
+ 2023-06-02 15:41:08,916 : INFO : TestLoginDdt : test_login_ddt_005 : 39 : clicking on login button
+ 2023-06-02 15:41:09,053 : INFO : TestLoginDdt : test_login_ddt_005 : 76 : page title-->Account Login
+ 2023-06-02 15:41:09,337 : INFO : TestLoginDdt : test_login_ddt_005 : 85 : test_login_ddt_005 is passed
+ 2023-06-02 15:41:09,337 : INFO : TestLoginDdt : test_login_ddt_005 : 90 : test_login_ddt_005 is completed
+ 2023-06-02 15:53:26,550 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-02 15:53:26,551 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-02 15:54:11,928 : INFO : TestLoginDdt : test_login_ddt_005 : 13 : test_login_ddt_005 is started
+ 2023-06-02 15:54:11,929 : INFO : TestLoginDdt : test_login_ddt_005 : 15 : opening browser
+ 2023-06-02 15:54:13,888 : INFO : TestLoginDdt : test_login_ddt_005 : 17 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-02 15:54:14,584 : INFO : TestLoginDdt : test_login_ddt_005 : 26 : clicking on myaccount
+ 2023-06-02 15:54:15,639 : INFO : TestLoginDdt : test_login_ddt_005 : 28 : clicking on login
+ 2023-06-02 15:54:16,031 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : entering email address-->Kmahajan@xyz.com
+ 2023-06-02 15:54:16,259 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : entering password-->Test@1234
+ 2023-06-02 15:54:17,341 : INFO : TestLoginDdt : test_login_ddt_005 : 37 : clicking on login button
+ 2023-06-02 15:54:17,374 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : page title-->My Account
+ 2023-06-02 16:25:30,368 : INFO : TestLoginDdt : test_login_ddt_005 : 20 : test_login_ddt_005 is started
+ 2023-06-02 16:25:30,370 : INFO : TestLoginDdt : test_login_ddt_005 : 22 : opening browser
+ 2023-06-02 16:25:31,330 : INFO : TestLoginDdt : test_login_ddt_005 : 24 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-02 16:25:35,633 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : clicking on myaccount
+ 2023-06-02 16:25:36,316 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : clicking on login
+ 2023-06-02 16:25:37,102 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : entering email address-->Kmahajan@xyz.com
+ 2023-06-02 16:25:37,376 : INFO : TestLoginDdt : test_login_ddt_005 : 42 : entering password-->Test@1234
+ 2023-06-02 16:25:38,702 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on login button
+ 2023-06-02 16:25:38,738 : INFO : TestLoginDdt : test_login_ddt_005 : 47 : page title-->My Account
+ 2023-06-02 16:25:39,094 : INFO : TestLoginDdt : test_login_ddt_005 : 51 : clicking on myaccount
+ 2023-06-02 16:25:39,716 : INFO : TestLoginDdt : test_login_ddt_005 : 53 : clicking on logout
+ 2023-06-02 16:25:39,839 : INFO : TestLoginDdt : test_login_ddt_005 : 90 : test_login_ddt_005 is passed
+ 2023-06-02 16:25:39,966 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : clicking on myaccount
+ 2023-06-02 16:25:40,417 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : clicking on login
+ 2023-06-02 16:25:40,948 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : entering email address-->Kmahajan@xyz.com1
+ 2023-06-02 16:25:41,182 : INFO : TestLoginDdt : test_login_ddt_005 : 42 : entering password-->Test@1234
+ 2023-06-02 16:25:41,878 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on login button
+ 2023-06-02 16:25:42,019 : INFO : TestLoginDdt : test_login_ddt_005 : 81 : page title-->Account Login
+ 2023-06-02 16:25:42,326 : INFO : TestLoginDdt : test_login_ddt_005 : 90 : test_login_ddt_005 is passed
+ 2023-06-02 16:25:42,440 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : clicking on myaccount
+ 2023-06-02 16:25:42,877 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : clicking on login
+ 2023-06-02 16:25:43,244 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : entering email address-->Kmahajan@xyz.com
+ 2023-06-02 16:25:43,549 : INFO : TestLoginDdt : test_login_ddt_005 : 42 : entering password-->Test@12341
+ 2023-06-02 16:25:43,941 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on login button
+ 2023-06-02 16:25:44,113 : INFO : TestLoginDdt : test_login_ddt_005 : 81 : page title-->Account Login
+ 2023-06-02 16:25:44,390 : INFO : TestLoginDdt : test_login_ddt_005 : 90 : test_login_ddt_005 is passed
+ 2023-06-02 16:25:44,516 : INFO : TestLoginDdt : test_login_ddt_005 : 33 : clicking on myaccount
+ 2023-06-02 16:25:44,993 : INFO : TestLoginDdt : test_login_ddt_005 : 35 : clicking on login
+ 2023-06-02 16:25:45,521 : INFO : TestLoginDdt : test_login_ddt_005 : 40 : entering email address-->Kmahajan@xyz.com1
+ 2023-06-02 16:25:45,906 : INFO : TestLoginDdt : test_login_ddt_005 : 42 : entering password-->Test@12341
+ 2023-06-02 16:25:46,985 : INFO : TestLoginDdt : test_login_ddt_005 : 44 : clicking on login button
+ 2023-06-02 16:25:47,067 : INFO : TestLoginDdt : test_login_ddt_005 : 81 : page title-->Account Login
+ 2023-06-02 16:25:47,336 : INFO : TestLoginDdt : test_login_ddt_005 : 90 : test_login_ddt_005 is passed
+ 2023-06-02 16:25:47,336 : INFO : TestLoginDdt : test_login_ddt_005 : 95 : test_login_ddt_005 is completed
+ 2023-06-02 16:36:44,054 : INFO : TestLogin : test_login_003 : 16 : test_login_003 is started
+ 2023-06-02 16:36:44,055 : INFO : TestLogin : test_login_003 : 18 : opening browser
+ 2023-06-02 16:36:44,587 : INFO : TestLogin : test_login_003 : 20 : entering urlhttps://tutorialsninja.com/demo/
+ 2023-06-02 16:36:45,249 : INFO : TestLogin : test_login_003 : 25 : clicking on myaccount
+ 2023-06-02 16:36:45,804 : INFO : TestLogin : test_login_003 : 27 : clicking on login
+ 2023-06-02 16:36:46,131 : INFO : TestLogin : test_login_003 : 29 : entering email address-->Kmahajan@xyz.com
+ 2023-06-02 16:36:46,364 : INFO : TestLogin : test_login_003 : 31 : entering password-->Test@1234
+ 2023-06-02 16:36:47,099 : INFO : TestLogin : test_login_003 : 33 : clicking on login button
+ 2023-06-02 16:36:47,129 : INFO : TestLogin : test_login_003 : 35 : page title-->My Account
+ 2023-06-02 16:36:47,429 : INFO : TestLogin : test_login_003 : 39 : clicking on myaccount
+ 2023-06-02 16:36:48,061 : INFO : TestLogin : test_login_003 : 41 : clicking on logout
+ 2023-06-02 16:36:48,061 : INFO : TestLogin : test_login_003 : 42 : test_login_003 is passed
+ 2023-06-02 16:36:48,449 : INFO : TestLogin : test_login_003 : 50 : test_login_003 is completed
+ 2023-06-02 16:36:59,361 : INFO : TestRegister : test_page_title_001 : 14 : test_page_title_001 is started
+ 2023-06-02 16:36:59,362 : INFO : TestRegister : test_page_title_001 : 16 : opening browser
+ 2023-06-02 16:36:59,917 : INFO : TestRegister : test_page_title_001 : 18 : Going to url--->https://tutorialsninja.com/demo/
+ 2023-06-02 16:37:00,166 : INFO : TestRegister : test_page_title_001 : 20 : maximize window
+ 2023-06-02 16:37:00,388 : INFO : TestRegister : test_page_title_001 : 22 : page title-->Your Store
+ 2023-06-02 16:37:00,737 : INFO : TestRegister : test_page_title_001 : 25 : taking screenshot
+ 2023-06-02 16:37:00,737 : INFO : TestRegister : test_page_title_001 : 26 : test_page_title_001 is passed
+ 2023-06-02 16:37:02,174 : INFO : TestRegister : test_page_title_001 : 35 : test_page_title_001 is completed

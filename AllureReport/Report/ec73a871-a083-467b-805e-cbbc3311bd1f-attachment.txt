@@ -1,0 +1,2 @@
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:13 test_login_ddt_005 is started
+[32mINFO    [0m TestLoginDdt:test_login_ddt.py:15 opening browser
